@@ -1,7 +1,7 @@
 # MiniDB
 
 A miniature relational database engine built from scratch in modern
-C++17/20 — storage engine, SQL parser, query executor, B+Tree indexes,
+C++17/20 : storage engine, SQL parser, query executor, B+Tree indexes,
 a rule-based optimizer, transactions with MVCC, write-ahead logging and
 crash recovery, and a TCP server with an interactive CLI.
 
